@@ -1,4 +1,4 @@
-# covid_project
+# covid_project : CORONA VIRUS TRACKER
 
 Access Corona Virus Tracker here : https://mkmanoj30.github.io/covid_project/
 
